@@ -1,0 +1,101 @@
+body {
+  background-color: #ebeff1;
+  padding: 0px;
+  margin: 0px;
+}
+.space {
+  padding: 30px 30px 0px 30px;
+}
+.full {
+  padding-left: 0px;
+  padding-right: 0px;
+}
+.nu {
+  font-family: "Arial", sans-serif;
+  font-size: 18px;
+  color: #acacac;
+  padding-right: 7px;
+}
+.clock {
+  font-family: "Montserrat", sans-serif;
+  font-size: 25px;
+  color: #1b1a1a;
+}
+
+.top {
+  background-color: white;
+}
+
+.ledig {
+  height: 300px;
+}
+.ledigBokatidbtn {
+  padding-top: 50px;
+}
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 120px;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+.timebtn {
+  border: 2px solid #1b1a1a;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+}
+.timebtn:hover {
+  border: 2px solid #1b1a1a;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  color: #fcfafa;
+  background-color: #1b1a1a;
+}
+
+.timebtnChecked {
+  border: 2px solid #1b1a1a;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  color: #fcfafa;
+  background-color: #1b1a1a;
+  background: url("c1.png") no-repeat left ;
+  background-color: #1b1a1a;
+ 
+}
+
+
+
+.timebtnBooked {
+  border: 2px solid #989da8;
+  border-radius: 5px;
+  padding: 10px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 18px;
+  color: #989da8;
+}
+
+.timemoments {
+  padding: 80px 30px 20px 30px;
+}
+
+.btnBokaTid {
+  background-color: #d31f31;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #fcfafa;
+  padding: 20px 80px 20px 80px;
+  border-radius: 5px;
+}
+.btnBokaTid:hover {
+  background-color: #c41527;
+  font-family: "Montserrat", sans-serif;
+  font-size: 20px;
+  color: #fcfafa;
+  padding: 20px 80px 20px 80px;
+  border-radius: 5px;
+}
